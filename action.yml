@@ -1,0 +1,5 @@
+name: Actions Playground
+description: A test action
+runs:
+	using: docker
+	image: Dockerfile
