@@ -1,6 +1,5 @@
 name: 'Actions Playground'
 description: 'A test action'
 runs:
-runs:
   using: 'docker'
   image: 'Dockerfile'
