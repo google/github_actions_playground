@@ -9,4 +9,4 @@ COPY . .
 
 CMD [ "echo" , "ls" ]
 
-CMD [ "python", "./main.py" ]
+CMD [ "python", "main.py" ]
