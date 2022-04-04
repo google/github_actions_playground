@@ -1,5 +1,6 @@
-name: Actions Playground
-description: A test action
+name: 'Actions Playground'
+description: 'A test action'
 runs:
-	using: docker
-	image: Dockerfile
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
