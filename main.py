@@ -13,5 +13,5 @@
 # limitations under the License.
 
 import os
-p = "/"
+p = "/github/workspace"
 print(os.listdir(p))
