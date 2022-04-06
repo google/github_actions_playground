@@ -9,3 +9,6 @@ COPY . .
 CMD echo | git diff --name-only main
 
 
+COPY . /usr/src/app
+
+CMD [ "python", "/usr/src/app/main.py" ]
